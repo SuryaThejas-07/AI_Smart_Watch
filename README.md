@@ -210,14 +210,19 @@ The IR proximity sensor on pin `A0` determines whether the watch is actually bei
 
 ---
 
-##Real Time Results
+## Real Time Results
 
-https://github.com/SuryaThejas-07/AI_Smart_Watch/blob/e2e3c374b35f4b2c51dcb389fd58e03e5f874e63/Backend/public/assets/design.png
-https://github.com/SuryaThejas-07/AI_Smart_Watch/blob/e2e3c374b35f4b2c51dcb389fd58e03e5f874e63/Backend/public/assets/demo.png
-https://github.com/SuryaThejas-07/AI_Smart_Watch/blob/e2e3c374b35f4b2c51dcb389fd58e03e5f874e63/Backend/public/assets/out3.png
-https://github.com/SuryaThejas-07/AI_Smart_Watch/blob/e2e3c374b35f4b2c51dcb389fd58e03e5f874e63/Backend/public/assets/out4.png
-https://github.com/SuryaThejas-07/AI_Smart_Watch/blob/e2e3c374b35f4b2c51dcb389fd58e03e5f874e63/Backend/public/assets/out2.png
-https://github.com/SuryaThejas-07/AI_Smart_Watch/blob/e2e3c374b35f4b2c51dcb389fd58e03e5f874e63/Backend/public/assets/out1.png
+![Design](https://raw.githubusercontent.com/SuryaThejas-07/AI_Smart_Watch/e2e3c374b35f4b2c51dcb389fd58e03e5f874e63/Backend/public/assets/design.png)
+
+![Demo](https://raw.githubusercontent.com/SuryaThejas-07/AI_Smart_Watch/e2e3c374b35f4b2c51dcb389fd58e03e5f874e63/Backend/public/assets/demo.png)
+
+![Output 1](https://raw.githubusercontent.com/SuryaThejas-07/AI_Smart_Watch/e2e3c374b35f4b2c51dcb389fd58e03e5f874e63/Backend/public/assets/out1.png)
+
+![Output 2](https://raw.githubusercontent.com/SuryaThejas-07/AI_Smart_Watch/e2e3c374b35f4b2c51dcb389fd58e03e5f874e63/Backend/public/assets/out2.png)
+
+![Output 3](https://raw.githubusercontent.com/SuryaThejas-07/AI_Smart_Watch/e2e3c374b35f4b2c51dcb389fd58e03e5f874e63/Backend/public/assets/out3.png)
+
+![Output 4](https://raw.githubusercontent.com/SuryaThejas-07/AI_Smart_Watch/e2e3c374b35f4b2c51dcb389fd58e03e5f874e63/Backend/public/assets/out4.png)
 
 ---
 
