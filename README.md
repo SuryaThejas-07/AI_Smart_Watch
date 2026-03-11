@@ -1,4 +1,4 @@
-# ⌚ SMART WATCH
+# ⌚ AI SMART WATCH
 ### AI-Powered Health Monitoring Wearable
 `ESP8266` • `Node.js` • `Gemini AI` • `OLED Display`
 
@@ -211,6 +211,7 @@ The IR proximity sensor on pin `A0` determines whether the watch is actually bei
 ---
 
 ##Real Time Results
+
 https://github.com/SuryaThejas-07/AI_Smart_Watch/blob/e2e3c374b35f4b2c51dcb389fd58e03e5f874e63/Backend/public/assets/design.png
 https://github.com/SuryaThejas-07/AI_Smart_Watch/blob/e2e3c374b35f4b2c51dcb389fd58e03e5f874e63/Backend/public/assets/demo.png
 https://github.com/SuryaThejas-07/AI_Smart_Watch/blob/e2e3c374b35f4b2c51dcb389fd58e03e5f874e63/Backend/public/assets/out3.png
